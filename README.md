@@ -1,0 +1,2 @@
+# ayudanteOrtografico
+El objetivo del proyecto es la implementación de un ayudante ortográfico. En principio esta herramienta carga un diccionario desde un archivo. Luego el ayudante debe ser capaz de revisar un texto y detectar las palabras en éste que no se encuentren en el diccionario. A cada una de estas palabras se les va a buscar en el diccionario las palabras que les sean más cercanas para presentarlas al usuario como recomendaciones.
